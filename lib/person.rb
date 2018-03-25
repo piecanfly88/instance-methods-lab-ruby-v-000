@@ -1,4 +1,4 @@
-class Person
+earclass Person
   def talk
     puts "Hello World!"
   end
